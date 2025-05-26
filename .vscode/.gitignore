@@ -1,0 +1,20 @@
+# Java / Spring Boot
+/backend/target/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+
+# Node / React
+/frontend/node_modules/
+/frontend/build/
+/frontend/dist/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environment files (optional if you use .env)
+.env
